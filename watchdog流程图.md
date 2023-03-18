@@ -1,6 +1,6 @@
 # 流程图
 
-![图片](\work\image.png)
+![图片](work/image.png)
 
 
 # 寄存器
